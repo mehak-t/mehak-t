@@ -43,8 +43,9 @@
 > Building a student productivity platform that combines calendar organiser, task management, scheduling, grades, and assignments into one user-friendly workspace.
 
 > **Tech Stack:** <br>
-**`Python` `Flask` `HTML5` `CSS3` `JavaScript` `SQLite` `Flask-SQLAlchemy`**
->
+
+`Python` `Flask` `HTML5` `CSS3` `JavaScript` `SQLite` `Flask-SQLAlchemy`
+
 > Currently working on:
 > - AI-assisted study workflows
 > - Authentication & user profiles
