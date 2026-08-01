@@ -2,7 +2,7 @@
 
 <img src="ascii_reveal.svg" width="500" height="700" />
 <br> 
-<img src="./typing_glow.svg" width="10000" alt="glowing intro text" />
+<img src="./typing_glow.svg" width="12000" alt="glowing intro text" />
 
 <p>
   <a href="mailto:mehaktrivedi14@gmail.com"><img src="https://img.shields.io/badge/Email-EC48C9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -17,7 +17,7 @@
 
 ## 🚀 About me:
 
-- 20yo student | Graduating in 2028 | Just a girl who loves to build!
+- A girl who loves to build | 20yo student | Graduating in 2028
 - I love building full-stack applications (favoring **TypeScript & React**), and have a special liking for customising UI/UX of products.
 - Have been working on expanding my AI-ML knowledge and experimenting with small ML projects ever so often.
 - Alwaysss tinkering with something new on the side :D
@@ -27,6 +27,7 @@
 <div align="center">
 
 ### 🧰 My Stack:
+<br>
 
 <img src="https://skillicons.dev/icons?i=python,java,ts,react,nodejs,git&theme=dark" />
 
@@ -54,16 +55,11 @@
 
 </details>
 
-<br/>
+<hr>
 
 ## 📊 GitHub stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mehak-t&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=EC48C9&icon_color=8B5CF6" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehak-t&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=EC48C9" height="165" />
-
-<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehak-t&theme=radical&hide_border=true&background=0d1117&ring=EC48C9&fire=8B5CF6" />
 
