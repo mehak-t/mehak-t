@@ -2,7 +2,7 @@
 
 <img src="ascii_reveal.svg" width="500" height="700" />
 <br> 
-<img src="./typing_glow.svg" width="12000" alt="glowing intro text" />
+<img src="./typing_glow.svg" width="1200" alt="glowing intro text" />
 
 <p>
   <a href="mailto:mehaktrivedi14@gmail.com"><img src="https://img.shields.io/badge/Email-EC48C9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
