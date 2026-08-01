@@ -33,25 +33,71 @@
 
 </div>
 
+## **What I've been upto:**
 
-## What I've been upto: 
 <details open>
-<summary><b>🔹 Acadex</b> &nbsp; <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" /></summary>
+<summary><b>🔹 Acadex: Executing made Simpler </b> &nbsp; <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" /></summary>
+
 <br/>
 
-> _[one-line description — what it does, what stack it's on]_
+> Building a student productivity platform that combines calendar organiser, task management, scheduling, grades, and assignments into one user-friendly workspace.
 
-`TypeScript` `React` `#YourStack`
+> **Tech Stack:** <br>
+`Python` `Flask` `HTML5` `CSS3` `JavaScript` `SQLite` `Flask-SQLAlchemy`
+>
+> Currently working on:
+> - AI-assisted study workflows
+> - Authentication & user profiles
+> - Responsive UI/UX improvements
 
 </details>
 
 <details>
-<summary><b>🔸 ML Simulator for F1</b> &nbsp; <img src="https://img.shields.io/badge/status-in%20ideation-yellow?style=flat-square" /></summary>
+<summary><b>🔸 Thermal Twin</b> &nbsp; <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" /></summary>
+
 <br/>
 
-> Exploring how ML could model race strategy / lap simulation. Not started yet — coming soon.
+> Working with a team on an AI-assisted battery thermal management system for electric vehicles. The project combines CFD simulations with machine learning to model battery temperatures and predict thermal behaviour through a digital twin. <br> <br>
+> Academic Technical Research Project on a real life AI use case. 
 
-`Python` `ML`
+`Python` `Machine Learning` `ANSYS Fluent` `CFD`
+
+> Potential prototype features:
+> - Physics-informed ML models
+> - Battery temperature prediction
+> - Simulation-driven validation
+
+</details>
+
+<details>
+<summary><b>🔸 F1 Strategy Simulator</b> &nbsp; <img src="https://img.shields.io/badge/status-in%20ideation-yellow?style=flat-square" /></summary>
+
+<br/>
+
+> Designing an ML-powered Formula 1 race strategy simulator capable of predicting optimal pit windows, tyre strategies and race outcomes using historical race data. <br><br>
+> Still in Ideation.
+
+> Planned features:
+> - Lap time prediction
+> - Tyre degradation modelling
+> - Pit stop optimization
+> - Race strategy simulations
+> - Car's Aerodynamic simulations
+
+</details>
+
+<details>
+<summary><b> Others: </b> &nbsp; <img src="https://img.shields.io/badge/status-ongoing-blue?style=flat-square" /></summary>
+
+<br/>
+
+> Continuously building stronger software engineering fundamentals alongside my projects.
+
+> Currently focusing on:
+> - Completed Harvard's CS50P and additional problem solving sets.
+> - Building Machine Learning fundamentals.
+> - Consistent Python-first DSA.
+> - Building better engineering habits through hands-on projects. 
 
 </details>
 
