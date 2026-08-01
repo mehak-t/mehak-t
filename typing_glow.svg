@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 60" width="640" height="60">
+  <defs>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4.5" result="blur1"/>
+      <feGaussianBlur stdDeviation="9" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0.0;0.0167;0.1833;0.2;1.0" dur="15.0s" begin="0s" repeatCount="indefinite" calcMode="linear"/>
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+          font-family="Fira Code, Consolas, monospace" font-size="22" font-weight="600"
+          fill="#ec48c9" filter="url(#glow)">Hi, I'm Mehak :D</text>
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+          font-family="Fira Code, Consolas, monospace" font-size="22" font-weight="600"
+          fill="#fdeaf7">Hi, I'm Mehak :D</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0;0.2;0.2167;0.3833;0.4;1.0" dur="15.0s" begin="0s" repeatCount="indefinite" calcMode="linear"/>
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+          font-family="Fira Code, Consolas, monospace" font-size="22" font-weight="600"
+          fill="#ec48c9" filter="url(#glow)">I make pixels dance</text>
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+          font-family="Fira Code, Consolas, monospace" font-size="22" font-weight="600"
+          fill="#fdeaf7">I make pixels dance</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0;0.4;0.4167;0.5833;0.6;1.0" dur="15.0s" begin="0s" repeatCount="indefinite" calcMode="linear"/>
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+          font-family="Fira Code, Consolas, monospace" font-size="22" font-weight="600"
+          fill="#ec48c9" filter="url(#glow)">console.log('hello world') -- for real</text>
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+          font-family="Fira Code, Consolas, monospace" font-size="22" font-weight="600"
+          fill="#fdeaf7">console.log('hello world') -- for real</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0;0.6;0.6167;0.7833;0.8;1.0" dur="15.0s" begin="0s" repeatCount="indefinite" calcMode="linear"/>
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+          font-family="Fira Code, Consolas, monospace" font-size="22" font-weight="600"
+          fill="#ec48c9" filter="url(#glow)">Turning coffee into commits</text>
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+          font-family="Fira Code, Consolas, monospace" font-size="22" font-weight="600"
+          fill="#fdeaf7">Turning coffee into commits</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0.0;0.8;0.8167;0.9833;1.0" dur="15.0s" begin="0s" repeatCount="indefinite" calcMode="linear"/>
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+          font-family="Fira Code, Consolas, monospace" font-size="22" font-weight="600"
+          fill="#ec48c9" filter="url(#glow)">Currently debugging my sleep schedule</text>
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+          font-family="Fira Code, Consolas, monospace" font-size="22" font-weight="600"
+          fill="#fdeaf7">Currently debugging my sleep schedule</text>
+  </g>
+</svg>
