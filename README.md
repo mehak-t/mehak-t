@@ -115,7 +115,7 @@
 
 <div align="center">
 
-<img src="./profile/streak.svg" />type=waving&height=120&color=0:24243e,50:302b63,100:0f0c29&section=footer&text=Thanks%20for%20stopping%20by%20%E2%9C%A8&fontColor=EC48C9&fontSize=20&fontAlignY=75&reversal=true" width="100%" />
+<img src="./profile/streak.svg"/>
 
 </div>
 
