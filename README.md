@@ -26,14 +26,14 @@
 
 <div align="center">
 
-### 🧰 My Stack:
+### My Stack:
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,java,ts,react,nodejs,git&theme=dark" />
+<a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" /></a> <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" /></a> <a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=ts&theme=dark" /></a> <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a> <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></a> <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a>
 
 </div>
 
-## **What I've been upto:**
+## **What I've been up to:**
 
 <details open>
 <summary><b>🔹 Acadex: Executing made Simpler </b> &nbsp; <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" /></summary>
@@ -59,7 +59,7 @@
 <br/>
 
 > Working with a team on an AI-assisted battery thermal management system for electric vehicles. The project combines CFD simulations with machine learning to model battery temperatures and predict thermal behaviour through a digital twin. <br> <br>
-> Academic Technical Research Project on a real life AI use case. 
+> Academic technical research project applying AI to a real-world engineering challenge.
 
 `Python` `Machine Learning` `ANSYS Fluent` `CFD`
 
@@ -83,7 +83,7 @@
 > - Tyre degradation modelling
 > - Pit stop optimization
 > - Race strategy simulations
-> - Car's Aerodynamic simulations
+> - Vehicle aerodynamics simulation
 
 </details>
 
