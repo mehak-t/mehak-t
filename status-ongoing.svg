@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="166" height="52" viewBox="0 0 166 52">
+  <defs>
+    <filter id="glow-status-ongoing" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="labelGrad-status-ongoing" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1c1f2e"/>
+      <stop offset="100%" stop-color="#12141f"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(12,12)">
+    <rect x="68" y="0" width="74" height="28" rx="14.0"
+          fill="#38BDF8" filter="url(#glow-status-ongoing)" opacity="0.4"/>
+
+    <rect x="0" y="0" width="58" height="28" rx="14.0"
+          fill="url(#labelGrad-status-ongoing)" stroke="#38BDF8" stroke-opacity="0.25" stroke-width="1"/>
+
+    <rect x="68" y="0" width="74" height="28" rx="14.0" fill="#38BDF8"/>
+
+    <text x="29.0" y="18.0" font-family="Verdana, Geneva, sans-serif" font-size="10.5" font-weight="bold"
+          fill="#c7cad4" text-anchor="middle" letter-spacing="0.3">Status</text>
+
+    <text x="105.0" y="18.0" font-family="Verdana, Geneva, sans-serif" font-size="10.5" font-weight="bold"
+          fill="#0a0c14" text-anchor="middle" letter-spacing="0.3">Ongoing</text>
+  </g>
+</svg>
