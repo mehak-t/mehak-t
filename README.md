@@ -111,12 +111,6 @@
 
 ## 📊 GitHub stats
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=mehak-t&theme=radical&hide_border=true&background=0d1117&ring=EC48C9&fire=8B5CF6" />
-
-</div>
-
 <br/>
 
 <div align="center">
