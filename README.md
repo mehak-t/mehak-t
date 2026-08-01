@@ -36,7 +36,8 @@
 ## **What I've been up to:**
 
 <details open>
-<summary><b>🔹 Acadex: Executing made Simpler </b> &nbsp; <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" /></summary>
+<summary><b>🔹 Acadex: Executing made Simpler </b> &nbsp; </summary>
+<img src="./status-active.svg" height="50" />
 
 <br/>
 
@@ -54,7 +55,9 @@
 </details>
 
 <details>
-<summary><b>🔸 Thermal Twin</b> &nbsp; <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" /></summary>
+<summary><b>🔸 Thermal Twin </b> &nbsp;</summary>
+<img src="./status-ideation.svg" height="50" />
+
 
 <br/>
 
@@ -71,7 +74,8 @@
 </details>
 
 <details>
-<summary><b>🔸 F1 Strategy Simulator</b> &nbsp; <img src="https://img.shields.io/badge/status-in%20ideation-yellow?style=flat-square" /></summary>
+<summary><b>🔸 F1 Strategy Simulator </b> &nbsp; </summary>
+<img src="./status-ideation.svg" height="50" />
 
 <br/>
 
@@ -88,7 +92,8 @@
 </details>
 
 <details>
-<summary><b> Others: </b> &nbsp; <img src="https://img.shields.io/badge/status-ongoing-blue?style=flat-square" /></summary>
+<summary><b> 🔹Others: </b> &nbsp; </summary>
+<img src="./status-ongoing.svg" height="50" />
 
 <br/>
 
@@ -108,7 +113,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehak-t&theme=radical&hide_border=true&background=0d1117&ring=EC48C9&fire=8B5CF6" />
+<img src="https://streak-stats.demolab.com/?user=mehak-t&theme=radical&hide_border=true&background=0d1117&ring=EC48C9&fire=8B5CF6" />
 
 </div>
 
@@ -116,7 +121,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:24243e,50:302b63,100:0f0c29&section=footer&text=Thanks%20for%20stopping%20by%20%E2%9C%A8&fontColor=EC48C9&fontSize=20&fontAlignY=75&reversal=true" width="100%" />
+<img src="./profile/streak.svg" />type=waving&height=120&color=0:24243e,50:302b63,100:0f0c29&section=footer&text=Thanks%20for%20stopping%20by%20%E2%9C%A8&fontColor=EC48C9&fontSize=20&fontAlignY=75&reversal=true" width="100%" />
 
 </div>
 
